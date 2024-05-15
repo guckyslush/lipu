@@ -1,8 +1,19 @@
 {
   "title": "kulupu kiwen",
-  "description": "",
+  "description": "lon ma suli ni la, jan kiwen li lawa. taso, jan alasa tan mun li wile e sijelo ona. kiwen Posu li awen wile utala e ona. taso, jan sona lawa li toki ala tawa ni la, ona li wile e lipu pi sona ale tan kiwen Posu. kiwen Posu li pilin ike, li toki tawa kiwen Sinsa, li pali mute, li pakala mute. kiwen Posu li seme?",
   "artist": "Ichikawa Haruko",
   "author": "jan Kukisulasu",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://images2.imgbox.com/76/6c/f1QsE3Y2_o.png",
+  "chapters": {
+    "001": {
+      "title": "001",
+      "volume": "1",
+      "last_updated": "1715733999",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
 }
